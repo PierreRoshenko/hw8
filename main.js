@@ -82,7 +82,7 @@ console.log(`Студента знову виключено`);
 martyn.getScholarship();
 console.log(`--------------------------------------------`);
 martyn.recover();
-console.log(`Студента знову поновленно`);
+console.log(`Студента знову поновлено`);
 martyn.getScholarship();
 console.log(`--------------------------------------------`);
 martyn.setMark = 2;
